@@ -5,7 +5,7 @@ import time
 from selenium import webdriver
 from datetime import datetime
 
-from ..models import NewsFeedImage, NewsFeed
+from core.models import NewsFeedImage, NewsFeed
 
 
 
